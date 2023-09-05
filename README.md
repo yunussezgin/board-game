@@ -2,6 +2,6 @@
 
 ## Tech Stack
 
-- Java 11
+- Java 8
 - Maven
 - Lombok
